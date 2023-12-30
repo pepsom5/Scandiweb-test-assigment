@@ -1,0 +1,17 @@
+{
+    "name": "pero0/scandiweb_test_assigment-main",
+    "description": "scandiweb test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pero0\\ScandiwebTestAssigmentMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pepsom5",
+            "email": "pero070@live.com"
+        }
+    ],
+    "require": {}
+}
